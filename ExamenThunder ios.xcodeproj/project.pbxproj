@@ -14,6 +14,7 @@
 		825B82152741C1A8006896B3 /* ExamenThunder_ios.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 825B82132741C1A8006896B3 /* ExamenThunder_ios.xcdatamodeld */; };
 		825B82172741C1AC006896B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 825B82162741C1AC006896B3 /* Assets.xcassets */; };
 		825B821A2741C1AC006896B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 825B82182741C1AC006896B3 /* LaunchScreen.storyboard */; };
+		825B8222274271C2006896B3 /* MessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825B8221274271C2006896B3 /* MessageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		825B82162741C1AC006896B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		825B82192741C1AC006896B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		825B821B2741C1AC006896B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		825B8221274271C2006896B3 /* MessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				825B82182741C1AC006896B3 /* LaunchScreen.storyboard */,
 				825B821B2741C1AC006896B3 /* Info.plist */,
 				825B82132741C1A8006896B3 /* ExamenThunder_ios.xcdatamodeld */,
+				825B8221274271C2006896B3 /* MessageViewController.swift */,
 			);
 			path = "ExamenThunder ios";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				825B820F2741C1A8006896B3 /* ViewController.swift in Sources */,
 				825B820B2741C1A8006896B3 /* AppDelegate.swift in Sources */,
 				825B820D2741C1A8006896B3 /* SceneDelegate.swift in Sources */,
+				825B8222274271C2006896B3 /* MessageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
